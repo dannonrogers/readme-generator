@@ -17,6 +17,8 @@ You will need node modules installed for inquirer and fs packages. Follow the pr
 
 ## Usage
 
+You can watch a video walkthrough by clicking [here](https://drive.google.com/file/d/1sJxP7a_xjr3p8D5d9SiFnch5mvne2ZXm/view)!
+
 Please run Node index.js from the Devolop directory. 
 
 ## Credits
